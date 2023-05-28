@@ -1,4 +1,4 @@
-# Blackbuntu v0.3- Styles Archive
+# Blackbuntu BB03 - Styles Archive
 
 I'm backing up these files for nostalgic purposes. Includes the following
 * Classic wallpaper
